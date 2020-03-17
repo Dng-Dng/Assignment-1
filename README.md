@@ -1,1 +1,1 @@
-# Assignment-1 Folder for BUSA8090
+# Assignment-1 repository for BUSA8090
