@@ -1,3 +1,4 @@
+#Question 3e)
 #!/bin/bash
 time=$(date +%I) #Return current time in 12 hour format and store in time
 cur_min=$(date +"%M") #return the minutes only of the current time and store in cur_min   
