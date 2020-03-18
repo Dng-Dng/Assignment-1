@@ -1,3 +1,4 @@
+#Question 2
 #!/bin/bash
 #Condition to check if no argument is entered
 if [ "$#" == "0" ]
