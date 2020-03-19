@@ -3,4 +3,8 @@
 #head -1 prints latest modified file from sorted arguments
 
 #!/bin/bash
-ls -t "$@" | head -1
+if [ $# -gt 0 ]; then
+	ls -t "$@" | head -1
+else
+    echo "No arguments provided"
+fi
